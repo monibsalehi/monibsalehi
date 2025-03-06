@@ -1,12 +1,19 @@
 👋🏼 Hi, I’m Monib Salehi!
 
 🚀 Frontend Developer | JavaScript & React
+
 📌 About Me
+
  • 🔭 Currently working on: Improving my frontend skills & building awesome web projects
+ 
  • 🌱 Currently learning: Advanced React & optimizing performance in web apps
+ 
  • 🎓 Student at: Azad University of Kermanshah, studying Computer Engineering (4th semester)
+ 
  • 💡 Passionate about: Frontend development, UI/UX design, and creating interactive web experiences
+ 
  • 📫 How to reach me: monibsalehi.dev@gmail.com
+ 
  • ⚡ Fun fact: I started my tech journey with mobile repair & now I build web apps!
 
 <p align="center">
