@@ -12,7 +12,7 @@
  
  • 💡 Passionate about: Frontend development, UI/UX design, and creating interactive web experiences
  
- • 📫 How to reach me: monibsalehi.dev@gmail.com
+ • 📫 How to reach me: monibsalehi88@gmail.com
  
  • ⚡ Fun fact: I started my tech journey with mobile repair & now I build web apps!
 
